@@ -26,3 +26,4 @@ The goal is to simulate how engineers track process stability using statistical 
 
 # Methodology
 1. Data Simulation
+   Synthetic process data is generated using a normal distribution to represent stable manufacturing conditions.Intentional anomalies are introduced to simulate process deviations.
