@@ -8,3 +8,13 @@ The goal is to simulate how engineers track process stability using statistical 
 - Establish control limits based on process data
 - Detect anomalies beyond expected variation
 - Visualize process trends using control charts
+
+# Features
+- Generation of simulated process data
+- Calculation of:
+  a) Mean
+  b) Standard deviation
+  c) Upper Control Limit (UCL)
+  d) Lower Control Limit (LCL)
+- Detection of out-of-control data points
+- Visualization using control charts
