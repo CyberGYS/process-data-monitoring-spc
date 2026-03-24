@@ -18,3 +18,11 @@ The goal is to simulate how engineers track process stability using statistical 
   - Lower Control Limit (LCL)
 - Detection of out-of-control data points
 - Visualization using control charts
+
+# Libraries Used
+- Python
+- Numpy
+- Matplotlib
+
+# Methodology
+1. Data Simulation
